@@ -1,0 +1,18 @@
+Does the job.
+
+a couple of caveats
+
+where you need to intercept attribute access.  @property deosn't work for every case 
+
+however you are locked to this specific class, and let say you have a number of attributes and you sure want to customize, you will notice that this approach will get out of hand very quickly
+
+
+ where this is not enough for you you
+03:09
+need to do something special with these
+03:11
+attributes and the cases that I can
+03:14
+think of is you might want to cache
+03:17
+attribute values so you're going to 
