@@ -16,8 +16,3 @@ class Article:
 
         slug = slugify(self.title)
         return slug
-
-
-article = Article("Django rocks", 'SHUT UPT')
-
-print(article.get_slug())
