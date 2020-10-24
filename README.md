@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/wandersonsc/python-property-and-setter-decorator.svg?branch=main)](https://travis-ci.org/wandersonsc/python-property-and-setter-decorator)
+[![codecov](https://codecov.io/gh/wandersonsc/python-property-and-setter-decorator/branch/main/graph/badge.svg?token=AJKLGKZJLK)](undefined)
 
 ### Setup
 
