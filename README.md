@@ -5,8 +5,7 @@
 
 ### Enhancing Class Attribute With Setters & Property Decorator
 
-So, according to Google, Meta Descriptions tag should be arround 160 characters.
-Well, therefore, it's best to keep meta descriptions long enough that they're sufficiently descriptive, with that in mind, characters. our primary goal should be to make sure that our Meta Descriptions follows Google's guidelines.
+So, according to Google, Meta Descriptions should be arround 160 characters, therefore, it's best to keep meta descriptions long enough that they're sufficiently descriptive, with that in mind, our primary goal should be to make sure that our Meta Description follows Google's guidelines.
 
 > Meta descriptions can be any length, but Google generally truncates snippets to ~155–160 characters.
 
