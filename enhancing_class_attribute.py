@@ -20,10 +20,10 @@ class Article:
 
     # Setter
     @meta_description.setter
-    def meta_description(self, value):
+    def meta_description(self, meta_description):
 
         self._meta_description = textwrap.shorten(
-            value, width=160)
+            meta_description, width=160)
 
     def __repr__(self):
 
