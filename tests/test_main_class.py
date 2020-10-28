@@ -27,3 +27,9 @@ def test_repr_method(article):
     """ Test repr method """
 
     assert (repr(article)) == F"Article({article.title.title()})"
+
+
+def test_meta_description_method(article):
+    """ Test meta description method """
+
+    assert article.meta_description == article._meta_description
