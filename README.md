@@ -26,6 +26,8 @@ So, according to Google, Meta Descriptions should be arround 160 characters, the
             meta_description, width=160)
 ```
 
+**Note** that we are using `_meta_description` rather than `meta_description` to avoid name clashing.
+
 ### Setup
 
 1. Assuming you have Python setup, run the following commands (if you're on Windows you may use `py` or `py -3` instead of `python` to start Python):
